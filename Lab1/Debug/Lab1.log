@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\weswesgg\desktop\gp workable\lab1\game.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\weswesgg\desktop\gp workable\lab1\game.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\weswesgg\desktop\gp workable\lab1\game.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab1.vcxproj -> C:\Users\weswesgg\Desktop\GP Workable\Debug\Lab1.exe
